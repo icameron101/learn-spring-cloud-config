@@ -1,1 +1,1 @@
-# learn-spring-cloud-config
+# Repo used to learn-spring-cloud-config
